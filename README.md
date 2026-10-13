@@ -75,20 +75,64 @@ I'm interested in how systems fail, how digital evidence tells a story, and how 
 <img src="https://img.shields.io/badge/GDPR-Data%20Privacy-6D28D9?style=for-the-badge" alt="GDPR" />
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
 
-</div>
 
 <details>
-<summary><b>More tools and concepts</b></summary>
+<summary>🧰 <b>More tools & technologies</b></summary>
+
 <br/>
 
-- **Forensics & investigation:** Autopsy, ExifTool, Recuva, OSINT, VirusTotal, Shodan
-- **Security monitoring concepts:** Splunk, SPL, IBM QRadar, Microsoft Sentinel, ELK Stack
-- **Cloud/security foundations:** AWS IAM, AWS CloudTrail, AWS GuardDuty, Azure Security Fundamentals
-- **Vulnerability management concepts:** CVE/CVSS, OpenVAS, Qualys fundamentals, patch management
-- **Development & data:** Python, SQL, React.js, FastAPI, Scikit-learn, OCR and NLP concepts
-- **Productivity:** Microsoft Excel, Word and PowerPoint
+<h3 align="center">🔍 Forensics & Investigation</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-Digital_Forensics-263238?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ExifTool-Metadata_Analysis-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recuva-File_Recovery-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT-Open_Source_Intelligence-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VirusTotal-Threat_Intelligence-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-Internet_Search-CC0000?style=for-the-badge" />
+</p>
 
-*Skill levels vary; this list reflects tools and concepts included in my current resume, not a claim of expert-level proficiency in each.*
+<h3 align="center">🛡️ Security Monitoring</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-Security_Analytics-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPL-Splunk_Search-65A637?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM_QRadar-SIEM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-SIEM-5E5E5E?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-Logs_&_Analytics-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+<h3 align="center">☁️ Cloud & Security</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS_IAM-Identity_&_Access-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTrail-AWS_Auditing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GuardDuty-Threat_Detection-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Security_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<h3 align="center">🧪 Vulnerability Management</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/CVE-Vulnerability_Database-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CVSS-Risk_Scoring-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenVAS-Vulnerability_Scanning-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qualys-Security_Assessment-D71920?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Patch_Management-System_Security-0F766E?style=for-the-badge" />
+</p>
+
+<h3 align="center">💻 Development & Data</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,fastapi,sklearn,sqlite,git,github" />
+</p>
+
+<h3 align="center">📊 Productivity & Reporting</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+</details>
 
 </details>
 
